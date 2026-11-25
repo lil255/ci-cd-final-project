@@ -1,0 +1,16 @@
+completed	success	Add CI workflow	CI workflow	main	push	45708421434	22s	12m
+completed	failure	Initial commit	.github/workflows/workflow.yml	main	push	45704607794	0s	37m
+
+✓ main CI workflow · 45708421434
+Triggered via push about 12 minutes ago
+
+JOBS
+✓ build in 20s (ID 139536257131)
+
+ANNOTATIONS
+! Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v3. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+build: .github#2
+
+
+For more information about a job, try: gh run view --job=<job-id>
+View this run on GitHub: https://github.com/lil255/ci-cd-final-project/actions/runs/45708421434
